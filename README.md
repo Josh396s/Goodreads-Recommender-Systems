@@ -30,6 +30,6 @@ The model's performance was measured using standard recommendation metrics:
   - Rating Prediction: Evaluated using Mean Squared Error (MSE), achieving a validation score of approximately 1.4177.
 
 ## Repository Structure
-- assignment1.py: The core implementation of the recommendation algorithms.
+- recommender.py: The core implementation of the recommendation algorithms.
 - README.md: Project documentation and overview.
 - data/: Directory containing interactions and pair files for training and testing.
